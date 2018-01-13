@@ -1,0 +1,31 @@
+h1{
+	background-color: lightgrey;
+	padding: 10px 20px 10px 20px;
+	color: #5397D1;
+}
+
+.Vorwort{
+	border-bottom: 1px solid grey;
+	font-weight: bold;
+}
+
+p{
+	padding: 10px;
+}
+
+div{
+	border-left: 30px solid #800;
+	margin: 0px 50px 0px 50px;
+}
+
+div h2 {
+	padding: 10px 0px 0px 10px;
+	margin-bottom: 0px;
+	color: #800;
+	font-size: 17px;
+}
+
+div p{
+	padding-top: 0;
+	margin-top: 0;
+}
